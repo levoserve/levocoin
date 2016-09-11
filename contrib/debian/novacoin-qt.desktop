@@ -1,0 +1,13 @@
+[Desktop Entry]
+Encoding=UTF-8
+Name=LevoCoin
+Comment=LevoCoin P2P Cryptocurrency
+Comment[ru]=LevoCoin, P2P криптовалюта
+Comment[fr]=LevoCoin, monnaie virtuelle cryptographique pair à pair
+Comment[tr]=LevoCoin, eşten eşe kriptografik sanal para birimi
+Exec=/usr/bin/LevoCoin-qt
+Terminal=false
+Type=Application
+Icon=/usr/share/pixmaps/LevoCoin80.xpm
+MimeType=x-scheme-handler/LevoCoin;
+Categories=Office;

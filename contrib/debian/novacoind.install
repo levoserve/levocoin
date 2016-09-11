@@ -1,0 +1,2 @@
+debian/bin/LevoCoind usr/bin
+src/LevoCoind usr/lib/LevoCoin

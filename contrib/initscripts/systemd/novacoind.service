@@ -1,0 +1,11 @@
+[Unit]
+Description=LevoCoin daemon serivce
+After=network.target
+
+[Service]
+Type=simple
+User=LevoCoin
+ExecStart=/opt/LevoCoin/LevoCoind
+
+[Install]
+WantedBy=multi-user.target

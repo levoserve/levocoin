@@ -1,0 +1,5 @@
+LevoCoin-qt usr/bin
+share/pixmaps/LevoCoin32.xpm usr/share/pixmaps
+share/pixmaps/LevoCoin80.xpm usr/share/pixmaps
+debian/LevoCoin-qt.desktop usr/share/applications
+debian/LevoCoin-qt.protocol usr/share/kde4/services/
